@@ -4,7 +4,7 @@
 
 This project demonstrates a simulated Tier 1 help desk workflow using Zendesk. I created and managed multiple support tickets involving common IT support scenarios, including account access, phishing awareness, computer performance, Wi-Fi connectivity, and software installation requests.
 
-The goal of this project was to practice documenting tickets, assigning priority, adding tags, writing internal notes, communicating with users, troubleshooting issues, and resolving tickets in a professional help desk environment.
+The goal of this project was to practice documenting tickets, assigning priority, adding tags, writing internal notes, communicating with users, troubleshooting issues, and moving tickets through the support lifecycle in a professional help desk environment.
 
 ## Tools Used
 
