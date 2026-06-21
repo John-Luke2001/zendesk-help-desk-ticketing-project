@@ -46,6 +46,8 @@ A user was unable to log in after a recent password reset and reported receiving
 **Screenshot:**  
 ![Ticket 1 - Password Reset](screenshots/ticket-01-password-reset-solved.png)
 
+**Status:** Solved
+
 ---
 
 ### Ticket 2: Suspicious Email Received
@@ -64,6 +66,8 @@ A user reported receiving a suspicious email from an unknown sender containing a
 **Screenshot:**  
 ![Ticket 2 - Phishing Email](screenshots/ticket-02-phishing-email-solved.png)
 
+**Status:** Solved
+
 ---
 
 ### Ticket 3: Computer Running Slow and Freezing
@@ -81,6 +85,8 @@ A user reported that their computer was running slowly and freezing while using 
 
 **Screenshot:**  
 ![Ticket 3 - Slow Computer](screenshots/ticket-03-slow-computer-solved.png)
+
+**Status:** Solved
 
 ---
 
@@ -103,6 +109,8 @@ A user reported that their laptop connected to the company Wi-Fi but displayed â
 **Screenshot:**  
 ![Ticket 4 - Wi-Fi Connectivity](screenshots/ticket-04-wifi-connectivity-pending.png)
 
+**Status:** Pending
+
 ---
 
 ### Ticket 5: Software Installation Request
@@ -120,6 +128,8 @@ A user requested installation of approved work software but did not have adminis
 
 **Screenshot:**  
 ![Ticket 5 - Software Installation](screenshots/ticket-05-software-installation-solved.png)
+
+**Status:** Solved
 
 ---
 
